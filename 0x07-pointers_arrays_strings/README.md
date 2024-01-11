@@ -1,1 +1,1 @@
-Even more pointers and arrays project
+New task of pointers
